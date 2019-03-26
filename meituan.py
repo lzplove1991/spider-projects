@@ -270,7 +270,7 @@ data:
     {'order_number': '26265322117705535', 
      'order_data': 
         {'user': 
-            {'name': '刘支培', 'sex': '男', 'addr': '袁旗寨村7号楼 (四排一号301)', 'phone': '17391779173'}, 
+            {'name': '刘支培', 'sex': '男', 'addr': '袁旗寨村7号楼 (四排一号301)', 'phone': '***********'}, 
         'shop': 
             {'name': '岐味居（烧烤）', 'shop-phone': '13991978624', 'shop-img': 'https://p0.meituan.net/120.0/business/3fce380058de60a3cfe07b027ca5bf5531585.jpg'}, 
         'order': 
