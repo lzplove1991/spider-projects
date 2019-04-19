@@ -29,3 +29,7 @@ tbcrawler
 --------
 1.使用破解js的方法，登录京东网页手机端获取数据  
 2.使用selenium，登录网页端，但是京东的滑块验证码很皮
+
+'''
+asdasdasdasdasdasd
+'''
