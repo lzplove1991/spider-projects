@@ -1,0 +1,39 @@
+{
+  "name": "lawbug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "multi": "node multi_process.js",
+    "clean": "node clean.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cuijinyu/lawBug.git"
+  },
+  "keywords": [
+    "法律文书网",
+    "爬虫"
+  ],
+  "author": "cuijinyu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cuijinyu/lawBug/issues"
+  },
+  "homepage": "https://github.com/cuijinyu/lawBug#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "crypto-js": "^3.1.9-1",
+    "log4js": "^3.0.6",
+    "mysql": "^2.16.0",
+    "node-schedule": "^1.3.0",
+    "qs": "^6.5.2",
+    "redis": "^2.8.0",
+    "request": "^2.88.0"
+  }
+}
