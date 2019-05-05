@@ -1,0 +1,3 @@
+redis
+requests
+elasticsearch == 5.5.3
